@@ -1,1 +1,35 @@
 %% let's make some music
+
+GUI{
+
+BUTTONS
+
+switches
+
+colors
+
+}
+
+Overall Program Structure{
+
+initialize pins
+
+ask for user input
+
+while function(
+  go to function
+  execute function)
+  
+ while not function(
+ 
+ end)
+ 
+
+
+
+Vibration function()
+
+Force Function()
+
+2pt Function()
+
